@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: bitbucket
+  repo: ricksaenz/ncms
 
 media_folder: static/assets
 
